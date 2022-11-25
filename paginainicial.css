@@ -1,0 +1,29 @@
+#background{
+  background-color: rgba(189, 173, 201, 0.911);
+}
+
+.logo{
+  text-align:center;
+  font-size: 32px;
+  border-top: solid green 7px;
+  border-bottom:solid green 7px;
+  background-color: lightgreen;
+}
+
+.Lema{
+      margin-left: 1300px;
+      border: green solid 4px;
+      background-color: lightgreen;
+
+}
+
+.Informação_inicial{
+    margin-left: 150px;
+    text-shadow: 1px 1px 2px rgb(134, 48, 8);
+    font-size:xx-large;
+}
+
+.Informação_inicial{
+  text-align: center;
+  margin: 3%;
+}
